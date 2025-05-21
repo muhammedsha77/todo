@@ -2,4 +2,4 @@ git
 node_modules
 logs
 *.log
- todo-mysql-data/
+ Dockerfile
